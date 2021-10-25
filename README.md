@@ -7,5 +7,8 @@
       <p>
       This webpage will host my projects for IS445 during the Fall 2021 semester
       </p>
+      <div id = "viz">
+        vegaEmbed("#viz", vlSpec);
+      </div>
   </body>
 </html>
