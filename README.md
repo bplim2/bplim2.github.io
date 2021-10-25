@@ -1,1 +1,1 @@
-I have very little idea what I'm doing here. This is for school projects, do not expect much competence on my part.
+This repository will host all projects regarding IS445 for the Fall 2020 semester.
